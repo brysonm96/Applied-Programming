@@ -26,3 +26,6 @@ Things to fix, improve, and add in the future
 * Plan for accidents, more time may be needed
 * Add more character to my web pages
 * Get better at making comments
+
+# Note
+I had to do some setting up using my computer's command prompt. Some scripts may not run correctly or may be hard to test without proper setup.
