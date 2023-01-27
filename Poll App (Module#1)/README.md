@@ -8,7 +8,7 @@ My purpose in creating this software is to demonstrate new powerful software dev
 
 # Web Pages
 
-My app transitions between two main web pages. The question page with the question and multiple choices for answers, and the results page that displays the stored values for each answer's corresponding votes. The questions and each answer were dynamically created using python shell scripts through the command prompt on my computer, and the vote results are dynamically created using a python script I edited in VS Code.
+My app runs three seperate web pages. The question page with the question and multiple choices for answers, the results page that displays the stored values for each answer's corresponding votes, and the admin page that is only accesible by the specified admin which is used for modifying. The questions and each answer were dynamically created using python shell scripts through the command prompt on my computer, and the vote results are dynamically created using a python script I edited in VS Code.
 
 # Development Environment
 
