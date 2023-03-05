@@ -21,7 +21,7 @@ This program was written in the C++ language.
 # Future Work
 
 Things to fix, improve, and add in the future
-* Add more details
-* Adjustable Difficulty
+* Shorten code with use of loops
+* Offer more output to the user
 * More Testing
 
