@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Array Functions Demo</title>
+</head>
+<body>
+  
+  <header>
+    <h1>You can do a lot with numbers!</h1>
+    </header>
+  
+ <main>
+  <form id="guessGame">
+    <h2>Guessing Game</h2>
+  <label>Guess the number between 1 and 100:</label>
+    <br>
+  <input type="number" id="guess">
+  <button type="button" onclick="checkGuess()">Guess</button>
+    <p id="result1"></p>
+  </form>
+  
+  <form id="calc">
+    <h2>Factorial Calculator</h2>
+    <label for="number">Enter a number:</label>
+    <br>
+    <input type="number" id="number">
+    <button type="button" onclick="factorial()">Calculate</button>
+    <p id="result2"></p>
+  </form>
+  
+  <form id="array">
+    <h2>Array Functions Demo</h2>
+    <label for="numbers">Enter an array of numbers (separated by commas):</label>
+    <br>
+    <input type="text" id="numbers">
+    <button type="button" onclick="handleClick()">Submit</button>
+    <p id="result3"></p>
+  </form>
+</main>
+  
+<footer>
+  <p>Made by Bryson Mouser</p>
+</footer>
+
+<script src="scripts/numbers.js"></script>
+</body>
+</html>
