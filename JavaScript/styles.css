@@ -1,0 +1,39 @@
+main{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+}
+
+h1{
+  text-align:center;
+}
+
+#guessGame{
+  background-image: linear-gradient(rgb(88, 238, 85), rgb(255, 255, 255));
+  padding:1em;
+  height:200px;
+  width:350px;
+}
+
+#calc{
+  background-image: linear-gradient(rgb(88, 182, 255), rgb(255, 255, 255));
+  padding:1em;
+  height:200px;
+  width:350px;
+}
+
+#array{
+  background-image: linear-gradient(rgb(255, 50, 20), rgb(255, 255, 255));
+  padding:1em;
+  height:200px;
+  width:350px;
+}
+
+form{
+  text-align:center;
+}
+
+footer p{
+  color: rgb(180, 180, 180);
+  margin:4em;
+}
