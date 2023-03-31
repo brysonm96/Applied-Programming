@@ -22,5 +22,3 @@ This program was written in the R language.
 # Future Work
 
 Things to fix, improve, and add in the future
-
-
