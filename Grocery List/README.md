@@ -2,8 +2,8 @@
 
 R Language is used for statistical computing. R language teaches data incoporation/managing skills.
 
-I created two programs. One creates a grocery list and allows the user to add items to it using a list.
-The second incorporates a CSV data file and allows th user to access information about grocery products.
+I created two programs. One creates a grocery list and allows the user to add items to it using a loop.
+The second incorporates a CSV data file and allows the user to access information about grocery products.
 
 My purpose in creating this software is to demonstrate new powerful software developing principles.
 
